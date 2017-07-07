@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practice Application</string>
+    <string name="Log_in">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Activity_A_Button">Activity A Button</string>
+    <string name="spinner">Select an option</string>
+    <string name="checkbox">Display selected textbox values</string>
+
+    <string-array name="spinner_list">
+        <item>Big Buck Bunny</item>
+        <item>Elephants Dream</item>
+        <item>Sintel</item>
+        <item>Tears of Steel</item>
+    </string-array>
+</resources>
